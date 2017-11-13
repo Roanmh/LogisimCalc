@@ -1,0 +1,13 @@
+* ALU Operations Table
+| Operation |    Code | Result    |
+|-----------+---------+-----------|
+| No-op     | 0000000 | Floating  |
+| Add       | 0000000 | in1 + in2 |
+|           |         |           |
+|           |         |           |
+|           |         |           |
+|           |         |           |
+|           |         |           |
+|           |         |           |
+|           |         |           |
+|           |         |           |
